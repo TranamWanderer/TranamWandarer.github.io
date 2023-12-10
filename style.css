@@ -205,6 +205,7 @@ section#gallery {
   justify-content: space-around;
   overflow: hidden;
   padding: 10px 0px 10px 0px;
+  overflow-x: auto;
 }
 section#gallery div {
   padding: 10px;
@@ -215,7 +216,7 @@ section#gallery div img {
 }
 section#gallery div img:hover {
   transition: all 0.2s ease-in-out;
-  transform: scale(1.1);
+  transform: scale(1.47);
 }
 section.quote {
   background: url("GAMBAR/background-bromo.jpg") no-repeat;
